@@ -7,6 +7,8 @@ Here is a list *(lists need a carriage return before list items):*
 
 - bananas
 - tamales
+- cucumbers
+- guacamole
 
 **Here is another list**
 
